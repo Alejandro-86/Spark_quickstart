@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "spark-quickstart"
+version = "0.1.0"
+description = ""
+authors = ["Alex_alonso_86 <aalonsocanales@gmail.com>"]
+readme = "README.md"
+packages = [{include = "spark_quickstart"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pyspark = "^3.5.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
