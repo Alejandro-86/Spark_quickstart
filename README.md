@@ -1,4 +1,4 @@
-# Spark_quickstart
+# Spark Quickstart
 
 This is a quickstart guide to get you up and running with Apache Spark. This guide is intended for those who are new to Spark and want to get a feel for the basics of the Spark ecosystem. This guide will cover the following topics:
 
